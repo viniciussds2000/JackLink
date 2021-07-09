@@ -17,6 +17,7 @@ export default function App() {
     Inter_500Medium,
     Rajdhani_500Medium,
     Rajdhani_700Bold
+    
   });
 
   if(!fontsLoaded){
