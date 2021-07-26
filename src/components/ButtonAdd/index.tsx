@@ -18,6 +18,7 @@ export function ButtonAdd({...rest}: RectButtonProps) {
                     size= {24}
                 />
                 
+                
             </RectButton>
     )
 }

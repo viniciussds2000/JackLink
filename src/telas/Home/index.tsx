@@ -45,6 +45,7 @@ export function Home(){
         },
         
         
+        
     ]
 
     function handleCategorySelect(categoryId: string){
