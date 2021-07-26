@@ -7,8 +7,9 @@ import AppLoading from 'expo-app-loading';
 
 
 
-import {Home} from './src/telas/Home';
-import {Background} from './src/components/Background';
+import {Routes} from './src/routes';
+import { Background } from './src/components/Background';
+
 
 
 export default function App() {
@@ -31,7 +32,7 @@ export default function App() {
           backgroundColor="transparent"
           translucent
       />
-    <Home/>
+    <Routes/>
     </Background>
   
   );
